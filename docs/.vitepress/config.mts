@@ -4,6 +4,7 @@ import { withSidebar } from 'vitepress-sidebar';
 const vitePressOptions = {
   title: "Bundoran Wiki",
   description: "Service related site",
+  base: '/buna-wik/'
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
