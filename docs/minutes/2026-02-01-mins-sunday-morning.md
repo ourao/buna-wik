@@ -108,7 +108,7 @@ Considered actions
 
 Next meeting business
 
-- Ratify the meetings of this meeting
+- Ratify minutes
 - Decide on a group conscience inventory time constraint.
 - A 30 or 60 minute time cap on conscience meetings?
 - What if we put in a concerted effort as a group to stay united on all fronts and to work at this consistently for the whole 2026?

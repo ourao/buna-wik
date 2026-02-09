@@ -1,10 +1,10 @@
 # Notice
 
-## Agenda 
+Agenda 
 
-Next group conscience is schedule for the 3rd week of February or the 1st of March
+Next conscience is schedule for the 3rd week of February or the 1st of March
 
-Agenda Next Bundoran Group Conscience
+Agenda Bundoran Group Conscience
 
 - Preamble; Primary Purpose; traditions
 - Ratify minutes
@@ -18,4 +18,8 @@ Agenda Next Bundoran Group Conscience
 - Serenity Prayer
 
 
-## Memorandums
+### Memos
+
+[AAWS Concepts Inventory](https://www.aa.org/concepts-checklist)
+
+Topics of inventory and the first two traditions
