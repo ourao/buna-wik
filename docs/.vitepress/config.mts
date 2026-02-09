@@ -8,10 +8,11 @@ const vitePressOptions = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Meetings', link: '/meetings/' },
-      { text: 'Minutes', link: '/minutes/' },
-      { text: 'Guides', link: '/guides/' },
+      { text: 'Docs', link: '/guides/' },
     ],
+    outline: [2,4],
+    repo: 'ourao/buna-wik',
+    logo: '/img/logo.svg',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/buna-wiki' }
     ]

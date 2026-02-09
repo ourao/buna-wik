@@ -3,13 +3,16 @@
 layout: home
 
 hero:
-  name: "Bundoran AA Wiki"
-  text: "Our Primary Purpose"
+  name: "Bundoran Service Group"
+  text: "Carrying The Message"
   tagline: "Group service documents and guidelines"
+  image:
+    src: /img/logo.svg
+    alt: Bundoran Service Group
   actions:
     - theme: brand
       text: Meeting Information
-      link: /meetings/info
+      link: /meetings/information
     - theme: alt
       text: Minutes
       link: /minutes/notice
