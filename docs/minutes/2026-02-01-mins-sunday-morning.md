@@ -1,0 +1,143 @@
+---
+title: 2026 01 01 Minutes
+---
+
+# 2026 02 01 Minutes
+
+
+Minutes of Group Conscience 2026 02 01 Sunday Morning
+
+Minutes secretary: Iarom 00353852436370
+
+- Members present: Kieran, Francis, Iarom
+- Apologies: D
+
+Summary
+
+- The problem of disunity was discussed followed by the long term conscience meeting structure that may be necessary to work on the problem.
+- There was unanimous agreement on the general issue and the need for a solution to achieve unity.
+- Many standard meeting format ideas were proposed.
+- It was agreed that the meeting may now appear to have taken the form of a new group with both autonomy and possibly a new name.
+- The 2025 closing financial report was made.
+- It was agreed that a regular schedule of structured inventory meetings would be important to facilitate unity and to rebuild the group.
+- And to use the inventory meetings to slowly and agreeably build a meeting format with generally acceptable responses or ways of dealing with any possible controversy within weekly meetings.
+- It was agreed to have these group conscience meetings at least once monthly on the first Sunday, immediately after the weekly meeting.
+
+
+Meeting Opening
+
+- F proposed we begin the meeting with the serenity prayer and that we keep the meeting short to 15-20 minutes.
+- A proposed agenda had been circulated in advance by Iarom which contained business items requiring more than the available time for the members present.
+- It was proposed to then prioritize today with respect to the available time of members present based on the most time conscience items.
+- A formal agenda was not put forward and instead a more casual group inventory style conscience evolved. It was very positive.
+
+
+Disunity
+
+- It was asked to the conscience for discussion whether the group is suffering from disunity.
+- Specific histories, examples and ideas were discussed.
+- It was clarified that all members are in complete agreement that disunity is the main concern of the group, and a concern worth working on.
+
+
+Long Term Conscience Structure
+
+- A number of ideas were brought up in relation to specific solutions to the current meeting but it was asked as to how these individual ideas might be built up over a longer period of time into a coherent group conscience agreement.
+- The question was posed as to how much time commitment might be necessary in group conscience meetings over the long term to help work on the problem of disunity.
+- And whether it would be important to make a regular schedule with an itemized agenda.
+- It was unanimously agreed to have at least one group conscience per month, with a default date of the first Sunday of each month, with the core theme being the work of unity in all our affairs as a group.
+
+
+Format Ideas
+
+- Many ideas were made throughout the whole group conscience to improve unity in terms of meeting formats and ways to approach disagreement in a meeting.
+- These include but are not exhaustive to
+- Possibly a biweekly group conscience during the rebuilding of the group
+- A minimum of monthly group consciences
+- Creating communal documents of group conscience decisions on any points of conflict within the meeting.
+- For example to consult various perspectives on the topic of keeping doors open, and keeping the heat in the room.
+- A document describing the meeting format with etiquette suggestions, which has been proposed and seconded at group conscience with unanimous agreement.
+- 1 hour meeting time.
+- 5 minutes per share.
+- A notification plague for time.
+- No fowl/vulgar language.
+- Speaker meeting versus open floor depending on attendance and chair
+- Read promises before closing the meeting
+- Keeping the door closed with the sign on the outside.
+
+
+Tradition 4 Group Autonomy
+
+- A question was posed to the conscience on whether the meeting members now consider the meeting to constitute a new autonomous group.
+- The rationale for thew question being that the meeting has for more than one year been self organising via its own informed group conscience.
+- Inline with tradition 4 on autonomy it could be said to be a new group.
+- Furthermore, it could be said that the members are conscious of taking a perspective of not being affiliated with any history of conflict that has affected the wider group.
+
+- The point was made that a new name would be a fresh start with a clean slate.
+
+- It is also noteworthy that the Thursday meeting has been temporarily closed and therefore the idea of this meeting being a new group would not create any exclusion or division.
+- It was said that no member would be excluded and any members already attending the morning meeting would likely continue to do so.
+
+- It was proposed for consideration to call the group the Sunday Morning Sobers.
+- There was complete agreement on the idea but it was also agreed to not rush forward with this.
+- That it would be important to sit and discuss it further so to allow other members not present to be part of the conversation and to voice their perspectives.
+
+
+Financial Report
+
+- Iarom has temporarily taken on the book keeping of the treasury.
+- The previous treasurer had recently stepped back from the role after 12 months, but may return.
+
+- The 2025 final books were reported. All numbers are in EUR.
+- The report has been approximated based on circumstantial records because some of the bank statements and receipts are currently unavailable.
+- The 2025 opening combined cash and bank balance was 1150.
+- Total expenses of the year were 1700 and total contributions were 1820.
+- The closing balance was 1270.
+
+- As of Jan 9th 2026, the rent expense has been 125, and a lodgement of 463.72 was made on Jan 9th leaving the cash balance at 0 and the bank balance at approximately 1167.72.
+- This could be less based on whether bank fee's have been applied.
+
+- The financial report was proposed by Kieran and seconded by Francis.
+- The report will be circulated with the minutes.
+
+
+Considered actions
+
+- Continue to implement a group conscience inventory structure
+- Facilitate the reception of help from AA General Service structure
+- Stay unified as a group
+- Considering working with nearby groups to up meeting attendance
+- Encourage new and past members into service
+- Consider directly working the traditions and concepts
+
+
+Next meeting business
+
+- Ratify the meetings of this meeting
+- Decide on a group conscience inventory time constraint.
+- A 30 or 60 minute time cap on conscience meetings?
+- What if we put in a concerted effort as a group to stay united on all fronts and to work at this consistently for the whole 2026?
+- Group inventory
+- Begin taking inventory of all ideas for formatting the meeting and for addressing any concerns.
+- Wording for a possible no foul language suggestion in the group inspired by Castlebar online meeting
+
+
+Next group conscience is schedule for 2025 03 01 after the 12:00 meeting.
+
+Appendix: Agenda circulated in advance
+
+Agenda 2026 02 01 Bundoran Group Conscience Meeting
+
+- Preamble; Primary Purpose; traditions
+- Inventory on Unity tradition 1
+- Financial Report
+- Matters Arising
+- Area Report
+- Matters Arising
+- General Service Report
+- Matters Arrising
+- Meeting reports
+- Matters Arising
+- AOB
+- Next conscience date
+- Serenity Prayer
+
