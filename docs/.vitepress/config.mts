@@ -14,7 +14,7 @@ const vitePressOptions = {
     repo: 'ourao/buna-wik',
     logo: '/img/logo.svg',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/buna-wiki' }
+      { icon: 'github', link: 'https://github.com/ourao/buna-wiki' }
     ]
   }
 };
