@@ -1,7 +1,3 @@
----
-title: 2026 01 01 Minutes
----
-
 # 2026 02 01 Minutes
 
 
@@ -121,7 +117,10 @@ Next meeting business
 - Wording for a possible no foul language suggestion in the group inspired by Castlebar online meeting
 
 
-Next group conscience is schedule for 2025 03 01 after the 12:00 meeting.
+Next group conscience 
+
+Meeting is schedule for either the third Sunday of February or the first of March 2025 03 01 after the 12:00 meeting.
+
 
 Appendix: Agenda circulated in advance
 

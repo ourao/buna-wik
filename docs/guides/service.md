@@ -1,4 +1,3 @@
-
 # Service Guides
 
 A wiki for sharing important resources, suggestions and information related to service.
@@ -86,7 +85,7 @@ How It Works
 ## GIS Forms
 
 - Structure: Updating online information of the group and meetings
-- URLS: https://www.alcoholicsanonymous.ie/aa-gis/
+- [GIS Form](https://www.alcoholicsanonymous.ie/aa-gis/)
 
 Info
 
@@ -96,4 +95,4 @@ Info
 
 ## Finances
 
-[2025 google book](https://docs.google.com/spreadsheets/d/1Gw8WKpMMBilYHRsaoxtq7HHG59senl_oj0r-9rz3HaU/)
+[2025 Blue Finance Book](https://docs.google.com/spreadsheets/d/1GjMPY1qkVbIz9m_JKvDXBTMPv8CCg4KcOGKTZXiigjk/edit?usp=sharing)
