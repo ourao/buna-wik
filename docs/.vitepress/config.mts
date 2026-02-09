@@ -4,7 +4,7 @@ import { withSidebar } from 'vitepress-sidebar';
 const vitePressOptions = {
   title: "Bundoran Wiki",
   description: "Service related site",
-  base: '/buna-wik/',
+  base: "/buna-wik/",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -12,6 +12,20 @@ const vitePressOptions = {
       { text: 'Minutes', link: '/minutes/' },
       { text: 'Guides', link: '/guides/' },
     ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/buna-wiki' }
+    ]
+  }
+};
+const vitePressSidebarOptions = {
+  documentRootPath: '/docs',
+  collapsed: false,
+  capitalizeFirst: true,
+  useTitleFromFrontmatter: true,
+  useTitleFromFileHeading: true,
+  // useTitleFromFrontmatter: true,
+};
+export default defineConfig(withSidebar(vitePressOptions, vitePressSidebarOptions));
     //autosidebar
     //sidebar: getSidebar({ 
     //        contentRoot: '/docs', 
@@ -34,17 +48,3 @@ const vitePressOptions = {
     //    ]
     //  }
     //],
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/buna/wiki' }
-    ]
-  }
-};
-const vitePressSidebarOptions = {
-  documentRootPath: '/docs',
-  collapsed: false,
-  capitalizeFirst: true,
-  useTitleFromFrontmatter: true,
-  useTitleFromFileHeading: true,
-  // useTitleFromFrontmatter: true,
-};
-export default defineConfig(withSidebar(vitePressOptions, vitePressSidebarOptions));
