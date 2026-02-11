@@ -11,14 +11,18 @@ hero:
     alt: Bundoran Service Group
   actions:
     - theme: brand
+      text: Guides
+      link: /guides/formats
+    - theme: alt
+      text: Basic Text
+      link: /basictext/basictext
+    - theme: alt
       text: Meeting Information
       link: /meetings/information
     - theme: alt
       text: Minutes
       link: /minutes/notice
-    - theme: alt
-      text: Guides
-      link: /guides/formats
+
 
 features:
   - title: Group Conscience

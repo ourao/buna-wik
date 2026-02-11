@@ -1,8 +1,10 @@
-# Books of History
+# The Basic Text
 
-## 1 Logos
+## Books of History
 
-## 2 Preface
+### 1 Logos
+
+### 2 Preface
 
 THIS IS the second edition of the book \"Alcoholics Anonymous,\" which
 made its first appearance in April 1939. More than 300,000 copies of the
@@ -40,7 +42,7 @@ Traditions of Alcoholics Anonymous, the principles upon which our A.A.
 groups function, together with the directions for getting in touch with
 A.A.
 
-## 1 Foreword
+### 1 Foreword
 
 *This is the Foreword as it appeared in the first printing of the first
 edition in 1939.*
@@ -82,7 +84,7 @@ welcomed.
 
 ALCOHOLICS ANONYMOUS
 
-## 2 Foreword
+### 2 Foreword
 
 The fellowship grows large and beyond the U.S borders. Bill's sobriety
 is mentioned in conjuction with Silkworth, followed by Bill's meeting of
@@ -275,7 +277,7 @@ great hope that all those who have as yet found no answer may begin to
 find one in the pages of this book and will presently join us on the
 high road to a new freedom.
 
-## Silkworth
+### Silkworth
 
 WE OF Alcoholics Anonymous believe that the reader will be interested in
 the medical estimate of the plan of recovery described in this book.
@@ -516,9 +518,9 @@ perhaps he came to scoff, he may remain to pray.
 
 William D. Silkworth, M.D.
 
-# Books of Bill
+## Books of Bill
 
-## Bill
+### Bill
 
 WAR FEVER ran high in the New England town to which we new, young
 officers from Plattsburg were assigned, and we were flattered when the
@@ -985,7 +987,7 @@ right here and now. Each day my friend's simple talk in our kitchen
 multiplies itself in a widening circle of peace on earth and good will
 to men.
 
-## Solution
+### Solution
 
 We, of Alcoholics Anonymous, know thousands of men and women who were
 once just as hopeless as Bill. Nearly all have recovered. They have
@@ -1350,7 +1352,7 @@ see these pages, and we believe that it is only by fully disclosing
 ourselves and our problems that they will be persuaded to say, \"Yes, I
 am one of them too; I must have this thing.\"
 
-## Alcoholism
+### Alcoholism
 
 MOST OF us have been unwilling to admit we were real alcoholics. No
 person likes to think he is bodily and mentally different from his
@@ -1737,7 +1739,7 @@ defense against the first drink. Except in a few rare cases, neither he
 nor any other human being can provide such a defense. His defense must
 come from a Higher Power.
 
-## Agnostics
+### Agnostics
 
 IN THE PRECEDING chapters you have learned something of alcoholism. We
 hope we have made clear the distinction between the alcoholic and the
@@ -2120,7 +2122,7 @@ come to all who have honestly sought Him.
 
 When we drew near to Him He disclosed Himself to us!
 
-## How
+### How
 
 RARELY HAVE we seen a person fail who has thoroughly followed our path.
 Those who do not recover are people who cannot or will not completely
@@ -2481,7 +2483,7 @@ already made a decision, and an inventory of your grosser handicaps, you
 have made a good beginning. That being so you have swallowed and
 digested some big chunks of truth about yourself.
 
-## Action
+### Action
 
 HAVING MADE our personal inventory, what shall we do about it? We have
 been trying to get a new attitude, a new relationship with our Creator,
@@ -2940,7 +2942,7 @@ simple way we have just outlined.
 But this is not all. There is action and more action. \"Faith without
 works is dead.\" The next chapter is entirely devoted to Step Twelve.
 
-## Others
+### Others
 
 PRACTICAL EXPERIENCE shows that nothing will so much insure immunity
 from drinking as intensive work with other alcoholics. It works when
@@ -3352,7 +3354,7 @@ After all, our problems were of our own making. Bottles were only a
 symbol. Besides, we have stopped fighting anybody or anything. We have
 to!
 
-## Wives
+### Wives
 
 WITH FEW EXCEPTIONS, our book thus far has spoken of men. But what we
 have said applies quite as much to women. Our activities in behalf of
@@ -3838,7 +3840,7 @@ you avoid these unnecessary difficulties.
 So to you out there-who may soon be with us-we say \"Good luck and God
 bless you!\"
 
-## Family
+### Family
 
 OUR WOMEN FOLK have suggested certain attitudes a wife may take with the
 husband who is recovering. Perhaps they created the impression that he
@@ -4225,7 +4227,7 @@ Live and Let Live
 
 Easy Does It.
 
-## Employers
+### Employers
 
 AMONG MANY employers nowadays, we think of one member who has spent much
 of his life in the world of big business. He has hired and fired
@@ -4626,7 +4628,7 @@ produce as much as five normal salesmen. But why not? They have a new
 attitude, and they have been saved from a living death. I have enjoyed
 every moment spent in getting them straightened out.
 
-## Vision
+### Vision
 
 FOR MOST normal folks, drinking means conviviality, companionship and
 colorful imagination. It means release from care, boredom and worry. It
@@ -5019,9 +5021,9 @@ of Happy Destiny.
 
 May God bless you and keep you-until then.
 
-# Books of The Pioneers
+## Books of The Pioneers
 
-## Bob
+### Bob
 
 A Co-founder of Alcoholics Anonymous. The birth of our Society dates
 from his first day of permanent sobriety, June 10, 1935.
@@ -5336,7 +5338,7 @@ been in the habit of showing when getting another drink.
 
 Your Heavenly Father will never let you down!
 
-## Three
+### Three
 
 Pioneer member of Akron's Group No. 1, the first A.A. group in the
 world. He kept the faith; therefore, he and countless others found a new
@@ -5657,7 +5659,7 @@ God."
 
 I feel that is about the most wonderful thing that a person can do.
 
-## Women
+### Women
 
 Despite great opportunities, alcohol nearly ended her life. Early
 member, she spread the word among women in our pioneering period.
@@ -5879,7 +5881,7 @@ living, is important, but secondary. I believe that my once over-weening
 self-will has finally found its proper place, for I can say many times
 daily, "Thy will be done, not mine" . . . and mean it.
 
-## Southern
+### Southern
 
 Pioneer A.A., minister's son, and southern farmer, "Who am I," said he,
 "to say there is no God?"
@@ -6210,7 +6212,7 @@ of honesty becomes more acute.
 
 I learn that honesty is truth, and the truth shall make us free!
 
-## Vicious
+### Vicious
 
 How it finally broke a Southerner's obstinacy and destined this salesman
 to start A.A. at Philadelphia.
@@ -6560,7 +6562,7 @@ And I still say that as long as I remember that January 8th in
 Washington, that is how long, by the grace of God as I understand Him, I
 will retain a happy sobriety.
 
-## Jim
+### Jim
 
 This physician, the originator of A.A.'s first colored group, but badly
 caught in the toils, tells of his release and of how freedom came as he
@@ -6938,7 +6940,7 @@ individuals.
 
 That's my story of what A.A. has done for me.
 
-## Fear
+### Fear
 
 He spent eighteen years in running away; and then found he didn't have
 to run. So he started A.A. in Detroit.
@@ -7283,7 +7285,7 @@ finally grew up to a point where I could even tackle such a job is the
 apex of the story of a man who spent eighteen years running away from
 life.
 
-## Short
+### Short
 
 But he found that there was a Higher Power which had more faith in him
 than he had in himself. Thus, A.A. was born in Chicago.
@@ -7566,7 +7568,7 @@ position of trust where I have been able to reap the rich rewards that
 come from showing a little love for others and from serving them as I
 can.
 
-## Kingdom
+### Kingdom
 
 This worldly lady helped to develop A.A. in Chicago and thus passed her
 keys to many.
@@ -7825,9 +7827,9 @@ Now there is a sense of belonging, of being wanted and needed and loved.
 In return for a bottle and a hangover, we have been given the Keys of
 the Kingdom.
 
-# Books Intime
+## Books Intime
 
-## Housewife
+### Housewife
 
 She hid her bottles in the clothes hampers and in the dresser drawers.
 She realized what she was becoming. In A.A., she discovered she had lost
@@ -8002,7 +8004,7 @@ I had been brought up to believe in God, but I know that until I found
 this A.A. program, I had never found or known faith in the reality of
 God, the reality of His power that is now with me in everything I do.
 
-## Earl
+### Earl
 
 Psychiatrist and surgeon, he had lost his way until he realized that
 God, not he, was the Great Healer.
@@ -8216,7 +8218,7 @@ psychotherapy."
 
 To me it is God.
 
-## Me
+### Me
 
 Barleycorn's wringer squeezed this author---but he escaped quite whole.
 
@@ -8397,9 +8399,9 @@ today a fairly creative, relatively sane human being. And should I have
 more bad times, I know that I'll never again have to go through them
 alone.
 
-# Books Nearly
+## Books Nearly
 
-## Bondage
+### Bondage
 
 Young when she joined, this A.A. believes her serious drinking was the
 result of even deeper defects. She here tells how she was set free.
@@ -8658,9 +8660,9 @@ know: I get everything I need in Alcoholics Anonymous---everything I
 need I get---and when I get what I need I invariably find that it was
 just what I wanted all the time.
 
-# Books Intime
+## Books Intime
 
-## Brewmeister
+### Brewmeister
 
 An originator of Cleveland's Group No. 3, this one fought Prohibition in
 vain.
@@ -8870,7 +8872,7 @@ narrative, I received an advancement.
 
 For all of these blessings, I thank Him.
 
-## European
+### European
 
 Beer and wine were not the answer.
 
@@ -9099,7 +9101,7 @@ where I have been at fault, it is not hard to discover and get right
 again, for I have proven to myself and to many others who know me that
 God can keep a man sober if he will let Him.
 
-## Farm
+### Farm
 
 She tells how A.A. works when the going is rough. A pioneer woman member
 of A.A.'s first Group.
@@ -9479,7 +9481,7 @@ So there you are. That's my story. I know I've talked too long, but I
 always do. And, anyhow, if I went on for ten or a hundred times as long
 I couldn't even begin to tell you all that A.A. has meant to me.
 
-## Gentleman
+### Gentleman
 
 I WAS BORN in Cleveland, Ohio, in 1889, the last child of a family of
 eight children. My parents were hard working people. My father was a
@@ -9790,7 +9792,7 @@ at the university for night courses in religion, and I pursued those
 courses for a year. In summing up, I can say that A.A. has made me, I
 hope, a real Catholic.
 
-## Hawk
+### Hawk
 
 This newsman covered life from top to bottom; but he ended up, safely
 enough, in the middle.
@@ -10060,7 +10062,7 @@ I have tasks to do and am glad to do them, to see others who are
 alcoholics and to help them in any way I can to become sober men. I took
 my last drink in 1937.
 
-## Shown
+### Shown
 
 "Who is convinced against his will is of the same opinion still." But
 not this man.
@@ -10491,9 +10493,9 @@ a week and it worked, and for a month, and it worked---and then for a
 year and it still worked. It has continued to work now for nearly
 eighteen years.
 
-# Appendum
+## Appendum
 
-## Traditions
+### Traditions
 
 To those now in its fold, Alcoholics Anonymous has made the difference
 between misery and sobriety, and often the difference between life and
@@ -10655,7 +10657,7 @@ practice a genuine humility. This to the end that our great blessings
 may never spoil us; that we shall forever live in thankful contemplation
 of Him who presides over us all.
 
-## Spiritus
+### Spiritus
 
 The terms \"spiritual experience\" and \"spiritual awakening\" are used
 many times in this book which, upon careful reading, shows that the
@@ -10706,7 +10708,7 @@ RECOVERY. BUT THESE ARE INDISPENSABLE.
 >
 > --HERBERT SPENCER
 
-## Medical
+### Medical
 
 Since Dr. Silkworth's first endorsement of Alcoholics Anonymous, medical
 societies and physicians throughout the world have set their approval
@@ -10773,7 +10775,7 @@ most A.A. groups or from Box 459, Grand Central Station, New York, NY
 formerly called \"Bill on Alcoholism\" and earlier \"Alcoholism the
 Illness.\")
 
-## Lasker
+### Lasker
 
 In 1951 the Lasker Award was given Alcoholics Anonymous. The citation
 reads in part as follows:
@@ -10788,7 +10790,7 @@ great venture in social pioneering which forged a new instrument for
 social action; a new therapy based on the kinship of common suffering;
 one having vast a potential for the myriad other ills of mankind.\"*
 
-## Blessings
+### Blessings
 
 Clergymen of practically every denomination have given A.A. their
 blessing.
@@ -10821,7 +10823,7 @@ duplicated. I suspect that if it is wisely handled--and it seems to be
 in wise and prudent hands--there are doors of opportunity ahead of this
 project that may surpass our capacities to imagine.\"*
 
-## Find
+### Find
 
 In the United States and Canada, most towns and cities have A.A. groups.
 In such places, A.A. can be located through the local telephone
@@ -10854,7 +10856,7 @@ largely of the wives, husbands and friends of A.A. members. This
 headquarters will give the location of the nearest Family Group and
 will, if you wish, correspond with you about your special problems.
 
-## Concepts
+### Concepts
 
 A.A.'s Twelve Steps are principles for personal recovery. The Twelve
 Traditions ensure the unity of the Fellowship. Written by co-founder
