@@ -10924,7 +10924,7 @@ public controversy; that it never perform acts of government, and that,
 like the Society it serves, it will always remain democratic in thought
 and action.
 
-[^1]: 1944
+^1 1944
 
-[^2]: Father Ed, an early and wonderful friend of A.A., died in the
+^2 Father Ed, an early and wonderful friend of A.A., died in the
     Spring of 1960.
