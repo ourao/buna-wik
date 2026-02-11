@@ -4,16 +4,16 @@
 
 Format Ideas
 
-Many ideas have recently been put forth within group conscience to work on unity. This is mostly in terms of meeting formats and ways to approach disagreement within a meeting. These are yet to be fully legitimised via group conscience but are listed here for reference and reflection.
-- These include but are not exhaustive to
-- 1 hour meeting time.
-- 5 minutes per share.
-- A notification plague for time.
-- No fowl/vulgar language.
-- Speaker meeting versus open floor depending on attendance and chair
-- Read promises before closing the meeting
-- Keeping the door closed with the sign on the outside.
-- Keeping the door closed with the sign on the outside.
+Many ideas have recently been put forth within group conscience to work on unity. They mostly ways to structurally approach disagreement within a meeting. These are yet to be fully worked out and formalised via group conscience and are listed here for reference and reflection.  
+These include but are not exhaustive to  
+1 hour meeting time.  
+5 minutes per share.  
+A notification plague for time.  
+No fowl/vulgar language.  
+Speaker meeting versus open floor depending on attendance and chair  
+Read promises before closing the meeting  
+Keeping the door closed with the sign on the outside.  
+Keeping the door closed with the sign on the outside.  
 
 
 ## Preamble
@@ -36,7 +36,7 @@ This is an open meeting of Alcoholics Anonymous. We are glad you are all here �
 
 ## Chapter 5 How It Works
 
-p58 BB
+> BB p58
 
 Rarely have we seen a person fail who has thoroughly followed our path. Those who do not recover are people who cannot or will not completely give themselves to this simple program, usually men and women who are constitutionally incapable of being honest with themselves. There are such unfortunates. They are not at fault; they seem to have been born that way. They are naturally incapable of grasping and developing a manner of living which demands rigorous honesty. Their chances are less than average. There are those, too, who suffer from grave emotional and mental disorders, but many of them do recover if they have the capacity to be honest.
 
@@ -74,31 +74,31 @@ Our description of the alcoholic, the chapter to the agnostic, and our personal 
 
 ## The AA Promises (Step 9 Promises)
 
-p83-84 BB
+> BB p83-84
 
-We are going to know a new freedom and a new happiness.
-We will not regret the past nor wish to shut the door on it.
-We will comprehend the word serenity and we will know peace.
-No matter how far down the scale we have gone, we will see how our experience can benefit others.
-That feeling of uselessness and self-pity will disappear.
-We will lose interest in selfish things and gain interest in our fellows.
-Self seeking will slip away.
-Our whole attitude and outlook upon life will change.
-Fear or people and of economic insecurity will leave us.
-We will intuitively know how to handle situations which used to baffle us.
-We will suddenly realize that God is doing for us what we could not do for ourselves.
+We are going to know a new freedom and a new happiness.  
+We will not regret the past nor wish to shut the door on it.  
+We will comprehend the word serenity and we will know peace.  
+No matter how far down the scale we have gone, we will see how our experience can benefit others.  
+That feeling of uselessness and self-pity will disappear.  
+We will lose interest in selfish things and gain interest in our fellows.  
+Self seeking will slip away.  
+Our whole attitude and outlook upon life will change.  
+Fear or people and of economic insecurity will leave us.  
+We will intuitively know how to handle situations which used to baffle us.  
+We will suddenly realize that God is doing for us what we could not do for ourselves.  
 
-Are these extravagant promises?
-We think not.
-They are being fulfilled among us—sometimes quickly, sometimes slowly.
-They will always materialize if we work for them.
+Are these extravagant promises?  
+We think not.  
+They are being fulfilled among us—sometimes quickly, sometimes slowly.  
+They will always materialize if we work for them.  
 
 
 ## Meeting Formats
 
-- Speaker meeting
-- Twelve and Twelve speaker meeting
-- Bigbook speaker meeting
-- Twelve and Twelve Study
-- Big Book Study
-- Public Information Meetings
+Speaker meeting  
+Twelve and Twelve speaker meeting  
+Bigbook speaker meeting  
+Twelve and Twelve Study  
+Big Book Study  
+Public Information Meetings  
