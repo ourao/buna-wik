@@ -1,10 +1,11 @@
 # Notice
 
 
-[2025 Blue Finance Book](https://docs.google.com/spreadsheets/d/1GjMPY1qkVbIz9m_JKvDXBTMPv8CCg4KcOGKTZXiigjk/edit?usp=sharing)
-[2025 02 01 Minutes](mins-2026-02-01)
+[2026 Blue Finance Book](https://docs.google.com/spreadsheets/d/1GjMPY1qkVbIz9m_JKvDXBTMPv8CCg4KcOGKTZXiigjk/edit?usp=sharing)  
+[2025 02 01 Minutes](mins-2026-02-01)  
 
-Agenda 
+
+### Next Agenda 
 
 Next conscience is schedule for the 3rd week of February or the 1st of March
 
@@ -14,7 +15,7 @@ Preamble; Primary Purpose; traditions
 Ratify minutes  
 Financial Report  
 Matters Arising  
-Area Report  
+Area Report & Motions  
 Matters Arising  
 Inventory on Unity tradition 1  
 AOB  
