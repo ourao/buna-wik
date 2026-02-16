@@ -28,3 +28,4 @@ Serenity Prayer
 [AAWS Concepts Inventory](https://www.aa.org/concepts-checklist)
 
 Topics of inventory and the first two traditions
+
