@@ -5,8 +5,8 @@
 [2025 02 01 Minutes](mins-2026-02-01)  
 [2025 02 15 Minutes](mins-2026-02-15)  
 
+Next conscience is scheduled for March 1st  
 
-Next conscience is scheduled for the 3rd week of February or the 1st of March
 
 ### Next Bundoran Group Conscience
 
