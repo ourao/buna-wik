@@ -3,29 +3,29 @@
 
 [2026 Blue Finance Book](https://docs.google.com/spreadsheets/d/1GjMPY1qkVbIz9m_JKvDXBTMPv8CCg4KcOGKTZXiigjk/edit?usp=sharing)  
 [2025 02 01 Minutes](mins-2026-02-01)  
+[2025 02 15 Minutes](mins-2026-02-15)  
 
 
-### Next Agenda 
+Next conscience is scheduled for the 3rd week of February or the 1st of March
 
-Next conscience is schedule for the 3rd week of February or the 1st of March
+### Next Bundoran Group Conscience
 
-Agenda Bundoran Group Conscience
-
-Preamble; Primary Purpose; traditions  
+Serenity prayer; primary purpose; traditions; unity  
 Ratify minutes  
-Financial Report  
-Matters Arising  
-Area Report & Motions  
-Matters Arising  
-Inventory on Unity tradition 1  
+Review agenda  
+Meeting reports  
+Matters arising
+Area report & motions  
+Matters arising  
+Inventory on unity and tradition 1  
 AOB  
 Next conscience date  
-Serenity Prayer  
+Serenity prayer  
 
 
 ### Memos
 
+Important information for future conscience meetings  
+Topics of inventory and the first two traditions  
 [AAWS Concepts Inventory](https://www.aa.org/concepts-checklist)
-
-Topics of inventory and the first two traditions
-
+https://www.aa.org/safety-card-aa-groups
