@@ -14,7 +14,7 @@ Serenity prayer; primary purpose; traditions; unity
 Ratify minutes  
 Review agenda  
 Meeting reports  
-Matters arising
+Matters arising  
 Area report & motions  
 Matters arising  
 Inventory on unity and tradition 1  
@@ -27,5 +27,5 @@ Serenity prayer
 
 Important information for future conscience meetings  
 Topics of inventory and the first two traditions  
-[AAWS Concepts Inventory](https://www.aa.org/concepts-checklist)
-https://www.aa.org/safety-card-aa-groups
+[AAWS Concepts Inventory](https://www.aa.org/concepts-checklist)  
+[AAWS safety card for meeting readings](https://www.aa.org/safety-card-aa-groups)  
