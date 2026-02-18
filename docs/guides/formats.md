@@ -10,10 +10,9 @@ These include but are not exhaustive to
 1 hour meeting time.  
 5 minutes per share.  
 A notification plague for time.  
-No fowl/vulgar language.  
 Speaker meeting versus open floor depending on attendance and chair.  
 Keeping the door closed with the sign on the outside.  
-
+No fowl/vulgar language.  
 Suggested statement on the use of foul language  
 We ask you to refrain from cursing. It can cause offence but its absence rarely does.  
 
@@ -25,16 +24,20 @@ Suggested announcements for the meeting secretary, based on their best judgement
 
 Other suggested reading formats  
 
-1. Meeting Opening  
+Meeting opening  
 Introduction  
-Closed / open meeting singleness of purpose statement card  
+Singleness of purpose (Closed/Open)  
+Meeting related announcements  
 Preamble  
 How it works  (BB. chapter 5)
 Daily reflections  
-A chosen AA reading  
 
-2. Meeting Closing  
-Any AA announcements
+Meeting body  
+A chosen AA reading  
+Speakers / Sharing  
+
+Meeting closing  
+Any AA announcements  
 Twelve promises  
 Tradition 7 and 12. Anonymity slogan    
 Serenity and Our Father prayers  
@@ -121,6 +124,7 @@ They will always materialize if we work for them.
 ## Meeting Formats Index
 
 Speaker meeting  
+Open floor meeting  
 Twelve and twelve speaker meeting  
 Bigbook speaker meeting  
 Twelve and twelve Study  
