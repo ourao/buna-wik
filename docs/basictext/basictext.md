@@ -1,6 +1,6 @@
 # The Basic Text
 
-## 2nd Preface
+## 2ND PREFACE
 
 THIS IS the second edition of the book \"Alcoholics Anonymous,\" which
 made its first appearance in April 1939. More than 300,000 copies of the
@@ -38,7 +38,7 @@ Traditions of Alcoholics Anonymous, the principles upon which our A.A.
 groups function, together with the directions for getting in touch with
 A.A.
 
-## 1st Foreword
+## 1ST FOREWORD
 
 *This is the Foreword as it appeared in the first printing of the first
 edition in 1939.*
@@ -80,7 +80,7 @@ welcomed.
 
 ALCOHOLICS ANONYMOUS
 
-## 2nd Foreword
+## 2ND FOREWORD
 
 The fellowship grows large and beyond the U.S borders. Bill's sobriety
 is mentioned in conjuction with Silkworth, followed by Bill's meeting of
@@ -273,7 +273,7 @@ great hope that all those who have as yet found no answer may begin to
 find one in the pages of this book and will presently join us on the
 high road to a new freedom.
 
-## The Doctor's Opinion
+## THE DOCTOR'S OPINION
 
 WE OF Alcoholics Anonymous believe that the reader will be interested in
 the medical estimate of the plan of recovery described in this book.
@@ -514,7 +514,7 @@ perhaps he came to scoff, he may remain to pray.
 
 William D. Silkworth, M.D.
 
-## Bill's Story
+## CHAPTER 1 BILL'S STORY
 
 WAR FEVER ran high in the New England town to which we new, young
 officers from Plattsburg were assigned, and we were flattered when the
@@ -981,7 +981,7 @@ right here and now. Each day my friend's simple talk in our kitchen
 multiplies itself in a widening circle of peace on earth and good will
 to men.
 
-## There is a Solution
+## CHAPTER 2 THERE IS A SOLUTION
 
 We, of Alcoholics Anonymous, know thousands of men and women who were
 once just as hopeless as Bill. Nearly all have recovered. They have
@@ -1346,7 +1346,7 @@ see these pages, and we believe that it is only by fully disclosing
 ourselves and our problems that they will be persuaded to say, \"Yes, I
 am one of them too; I must have this thing.\"
 
-## More About Alcoholism
+## CHAPTER 3 MORE ABOUT ALCOHOLISM
 
 MOST OF us have been unwilling to admit we were real alcoholics. No
 person likes to think he is bodily and mentally different from his
@@ -1733,7 +1733,7 @@ defense against the first drink. Except in a few rare cases, neither he
 nor any other human being can provide such a defense. His defense must
 come from a Higher Power.
 
-## We Agnostics
+## CHAPTER 4 WE AGNOSTICS
 
 IN THE PRECEDING chapters you have learned something of alcoholism. We
 hope we have made clear the distinction between the alcoholic and the
@@ -2116,7 +2116,7 @@ come to all who have honestly sought Him.
 
 When we drew near to Him He disclosed Himself to us!
 
-## How It Works
+## CHAPTER 5 HOW IT WORKS
 
 RARELY HAVE we seen a person fail who has thoroughly followed our path.
 Those who do not recover are people who cannot or will not completely
@@ -2477,7 +2477,7 @@ already made a decision, and an inventory of your grosser handicaps, you
 have made a good beginning. That being so you have swallowed and
 digested some big chunks of truth about yourself.
 
-## Into Action
+## CHAPTER 6 INTO ACTION
 
 HAVING MADE our personal inventory, what shall we do about it? We have
 been trying to get a new attitude, a new relationship with our Creator,
@@ -2936,7 +2936,7 @@ simple way we have just outlined.
 But this is not all. There is action and more action. \"Faith without
 works is dead.\" The next chapter is entirely devoted to Step Twelve.
 
-## Working With Others
+## CHAPTER 7 WORKING WITH OTHER
 
 PRACTICAL EXPERIENCE shows that nothing will so much insure immunity
 from drinking as intensive work with other alcoholics. It works when
@@ -3348,7 +3348,7 @@ After all, our problems were of our own making. Bottles were only a
 symbol. Besides, we have stopped fighting anybody or anything. We have
 to!
 
-## To Wives
+## CHAPTER 8 TO WIVES
 
 WITH FEW EXCEPTIONS, our book thus far has spoken of men. But what we
 have said applies quite as much to women. Our activities in behalf of
@@ -3834,7 +3834,7 @@ you avoid these unnecessary difficulties.
 So to you out there-who may soon be with us-we say \"Good luck and God
 bless you!\"
 
-## The Family Afterwords
+## CHAPTER 9 THE FAMILY AFTERWARDS
 
 OUR WOMEN FOLK have suggested certain attitudes a wife may take with the
 husband who is recovering. Perhaps they created the impression that he
@@ -4221,7 +4221,7 @@ Live and Let Live
 
 Easy Does It.
 
-## To Employers
+## CHAPTER 10 TO EMPLOYERS
 
 AMONG MANY employers nowadays, we think of one member who has spent much
 of his life in the world of big business. He has hired and fired
@@ -4622,7 +4622,7 @@ produce as much as five normal salesmen. But why not? They have a new
 attitude, and they have been saved from a living death. I have enjoyed
 every moment spent in getting them straightened out.
 
-## A Vision For You
+## CHAPTER 11 A VISION FOR YOU
 
 FOR MOST normal folks, drinking means conviviality, companionship and
 colorful imagination. It means release from care, boredom and worry. It
