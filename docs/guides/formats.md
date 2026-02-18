@@ -138,5 +138,5 @@ Q and A meeting
 Meditation step 11 meeting  
 Grapevine workshops  
 Public information and open meetings  
-Young person's meeting
+Young person's meeting  
 Women's meeting
