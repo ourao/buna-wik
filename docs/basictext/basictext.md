@@ -1,5 +1,8 @@
 # The Basic Text
 
+NOTE: THIS PAGE IS TO BE VIEWED FROM WITHIN THE U.S. ONLY
+The second edition of 'Alcoholics Anonymous', The Big Book, is in the public domain of the US only.
+
 ## 2ND PREFACE
 
 THIS IS the second edition of the book \"Alcoholics Anonymous,\" which
