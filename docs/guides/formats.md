@@ -22,24 +22,28 @@ We ask you to refrain from cursing. It can cause offence but its absence rarely 
 Suggested announcements for the meeting secretary, based on their best judgement.  
 (TODO based on the above proposals)  
 
-Other suggested reading formats  
+
+### Reading Agenda
+
+Some suggested reading formats  
 
 Meeting opening  
 Introduction  
-Singleness of purpose (Closed/Open)  
-Meeting related announcements  
 Preamble  
-How it works  (BB. chapter 5)
-Daily reflections  
+Meeting related conscience announcements  
+Safety card  
+Singleness of purpose (Closed/Open)  
 
 Meeting body  
+How it works  (BB. chapter 5)  
+Daily reflections  
 A chosen AA reading  
 Speakers / Sharing  
 
 Meeting closing  
 Any AA announcements  
 Twelve promises  
-Tradition 7 and 12. Anonymity slogan    
+Tradition 7 and 12. Anonymity slogan  
 Serenity and Our Father prayers  
 
 
