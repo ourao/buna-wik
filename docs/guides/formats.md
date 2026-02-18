@@ -2,22 +2,42 @@
 
 ## Housekeeping
 
-Format Ideas
+Format Proposals  
 
 Many ideas have recently been put forth within group conscience to work on unity. These mostly take the form of structural approaches within a meeting to disagreement or actions which can cause significant offense. These are yet to be fully worked out and formalised via group conscience and are listed here for reference and reflection.  
-These include but are not exhaustive to:  
+
+These include but are not exhaustive to  
 1 hour meeting time.  
 5 minutes per share.  
 A notification plague for time.  
 No fowl/vulgar language.  
 Speaker meeting versus open floor depending on attendance and chair.  
-Read promises before closing the meeting.  
-Keeping the door closed with the sign on the outside.  
 Keeping the door closed with the sign on the outside.  
 
-Suggested statement on the use of foul language:  
-We ask you to refrain from cursing.  
-Cursing can cause offence, its absence rarely does.  
+Suggested statement on the use of foul language  
+We ask you to refrain from cursing. It can cause offence but its absence rarely does.  
+
+
+### Introductory Statements
+
+Suggested announcements for the meeting secretary, based on their best judgement.  
+(TODO based on the above proposals)  
+
+Other suggested reading formats  
+
+1. Meeting Opening  
+Introduction  
+Closed / open meeting singleness of purpose statement card  
+Preamble  
+How it works  (BB. chapter 5)
+Daily reflections  
+A chosen AA reading  
+
+2. Meeting Closing  
+Any AA announcements
+Twelve promises  
+Tradition 7 and 12. Anonymity slogan    
+Serenity and Our Father prayers  
 
 
 ## Preamble
