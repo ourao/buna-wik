@@ -5,7 +5,7 @@
 [2025 02 01 Minutes](mins-2026-02-01)  
 [2025 02 15 Minutes](mins-2026-02-15)  
 
-Next conscience is scheduled for March 1st  
+Next conscience is suggested be on March 1st  
 
 
 ### Next Bundoran Group Conscience
@@ -29,3 +29,5 @@ Important information for future conscience meetings
 Topics of inventory and the first two traditions  
 [AAWS Concepts Inventory](https://www.aa.org/concepts-checklist)  
 [AAWS safety card for meeting readings](https://www.aa.org/safety-card-aa-groups)  
+[AAWS safety card for meeting readings](https://www.aa.org/safety-card-aa-groups)  
+
