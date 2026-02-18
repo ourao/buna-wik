@@ -30,5 +30,5 @@ Topics of inventory and the first two traditions
 [AAWS Concepts Inventory](https://www.aa.org/concepts-checklist)  
 [AAWS safety card for meeting readings](https://www.aa.org/safety-card-aa-groups)  
 [AAWS safety card for meeting readings](https://www.aa.org/safety-card-aa-groups)  
-[Proposed meeting format ideas](formats). See the top of this page.  
+[Proposed meeting format ideas](/docs/guides/formats). See the top of this page.  
 
