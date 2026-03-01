@@ -3,9 +3,9 @@
 ### Quick Find Resources
 
 [2026 Blue Finance Book](https://docs.google.com/spreadsheets/d/1GjMPY1qkVbIz9m_JKvDXBTMPv8CCg4KcOGKTZXiigjk/edit?usp=sharing)  
-[Minutes 2025 02 01](amins-2026-02-01)  
-[Minutes 2025 02 15](amins-2026-02-15)  
-[Minutes 2025 03 01](amins-2026-02-15)  
+[Minutes 2025 02 01](cmins-2026-02-01)  
+[Minutes 2025 02 15](cmins-2026-02-15)  
+[Minutes 2025 03 01](cmins-2026-02-15)  
 [Future Meeting Memos](memos)  
 
 
