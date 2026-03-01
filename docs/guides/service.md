@@ -1,6 +1,6 @@
 # Service Guides
 
-A wiki for sharing important resources, suggestions and information related to service.
+A wiki for sharing important resources, suggestions and information related to general service matters.
 
 
 ### Service Resources
