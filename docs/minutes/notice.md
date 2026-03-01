@@ -11,10 +11,11 @@
 ### Next Group Conscience
 
 Next conscience is suggested for Sunday March 1st.  
-With a current regularity of monthly consciences.  
+
+With a current regularity of monthly consciences on the first Sunday of each month.  
 
 
-AGENDA  
+SUGGESTED AGENDA  
 
 1. Opening  
 Serenity prayer; primary purpose; traditions; unity  
