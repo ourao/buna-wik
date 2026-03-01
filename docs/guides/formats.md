@@ -27,20 +27,20 @@ Suggested announcements for the meeting secretary, based on their best judgement
 
 Some suggested reading formats  
 
-Meeting opening  
+MEETING OPENING  
 Introduction  
 Preamble  
 Meeting related conscience announcements  
 Safety card  
 Singleness of purpose (Closed/Open)  
 
-Meeting body  
+MEETING BODY  
 How it works  (BB. chapter 5)  
 Daily reflections  
 A chosen AA reading  
 Speakers / Sharing  
 
-Meeting closing  
+MEETING CLOSING  
 Any AA announcements  
 Twelve promises  
 Tradition 7 and 12. Anonymity slogan  

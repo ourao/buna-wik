@@ -18,6 +18,7 @@ AGENDA
 
 1. Opening  
 Serenity prayer; primary purpose; traditions; unity  
+Reading on tradition one?  
 Review agenda; 30 minute timer  
 Ratify minutes  
 Matters arising  
