@@ -29,7 +29,8 @@ Reports
 Matters arising  
 
 3. GSR  
-Reports on group responsibilities  
+Reports  
+Intergroup on group responsibilities  
 Matters arising  
 
 4. Inventory on unity and tradition 1  
