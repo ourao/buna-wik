@@ -1,28 +1,29 @@
 # Meeting Formats
 
-## Formats / Housekeeping
+## Format / Housekeeping Proposals  
 
-Format Proposals  
-
-Many ideas have recently been put forth within group conscience to work on unity. These mostly take the form of structural approaches within a meeting to disagreement or actions which can cause significant offense. These are yet to be fully worked out and formalised via group conscience and are listed here for reference and reflection. These include but are not exhaustive to what follow.  
+With a focus on working on unity, many ideas have been put forth within group conscience. These mostly take the form of structural approaches within meetings, towards addressing disagreement or controversial actions. Those which are significant ought to be the responsibility of the trusted servants to delicately address. These proposals are yet to be fully worked out and formalised via group conscience. They are listed here for reference and reflection. These include but are not exhaustive to what follows.  
 
 Time based suggestions.  
-    1 hour meeting time.  
-    5 minutes per share.  
-    A notification plague for time.  
+> 1 hour meeting time.  
+ 5 minutes per share.  
+ A notification plague for time.  
 
-Keeping the door closed with the sign on the outside.  
-No fowl/vulgar language.  
-    Suggested statement on the use of foul language.  
-    We ask you to refrain from cursing. It can cause offence but its absence rarely does.  
-Formats.  
-```    Speaker meeting versus open floor depending on attendance and chair.  ```
+Meeting setup  
+> Keeping the door closed with the sign on the outside.  
+
+Formats  
+> Speaker meeting versus open floor depending on attendance and chair.  
+
+Sensitivity to sharing and language.  
+> Suggested statement on the use of foul language: "We ask you to refrain from cursing. It can cause offence but its absence rarely does."  
 
 
 ## Introductory Statements
 
 Suggested announcements for the meeting secretary, based on their judgement and discretion.  
-(TODO based on the above proposals)  
+
+(In development based on the evolution of group conscience)  
 
 
 ## Possible Reading Agendas  
@@ -39,7 +40,7 @@ Safety card
 Singleness of purpose (Closed/Open)  
 
 3. MEETING SHARES  
-How it works  (BB. chapter 5)  
+How it works  (BB. Chapter 5)  
 Daily reflections  
 A chosen AA reading  
 Speakers / Sharing  
@@ -51,19 +52,24 @@ Tradition 7 and 12. Anonymity slogan
 Serenity and Our Father prayers  
 
 
-## Meeting Format Index
+## Index of Meeting Types  
 
+1. Speaker type meetings  
 Speaker meeting  
 Open floor meeting  
 Twelve and twelve speaker meeting  
-Bigbook speaker meeting  
+Big Book speaker meeting  
+
+2. Workshop related meetings  
 Twelve and twelve Study  
 Big book study  
 Workshops  
+Grapevine workshops  
+
+3. Novelty meetings  
+Public information and open meetings  
 Q and A meeting  
 Meditation step 11 meeting  
-Grapevine workshops  
-Public information and open meetings  
 Young person's meeting  
-Women's meeting
+Women's meeting  
 

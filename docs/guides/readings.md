@@ -18,7 +18,7 @@ OPEN MEETING
 This is an open meeting of Alcoholics Anonymous. We are glad you are all here — especially newcomers. In keeping with our singleness of purpose and our Third Tradition which states that “The only requirement for A.A. membership is a desire to stop drinking,” we ask that all who participate confine their discussion to their problems with alcohol.
 
 
-### Chapter 5 How It Works
+## Chapter 5 How It Works
 
 > BB p58
 
