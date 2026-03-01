@@ -29,22 +29,22 @@ Suggested announcements for the meeting secretary, based on their judgement and 
 
 Some suggested reading formats  
 
-MEETING OPENING  
+1. MEETING OPENING  
 Introduction  
 Preamble  
 
-GROUP CONSCIENCE REMINDERS  
+2. GROUP CONSCIENCE REMINDERS  
 Meeting related conscience announcements  
 Safety card  
 Singleness of purpose (Closed/Open)  
 
-MEETING SHARES  
+3. MEETING SHARES  
 How it works  (BB. chapter 5)  
 Daily reflections  
 A chosen AA reading  
 Speakers / Sharing  
 
-MEETING CLOSING  
+4. MEETING CLOSING  
 Any AA announcements  
 Twelve promises  
 Tradition 7 and 12. Anonymity slogan  
