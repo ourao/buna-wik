@@ -36,7 +36,7 @@ Meeting related conscience announcements
 Safety card  
 Singleness of purpose (Closed/Open)  
 
-MEETING BODY  
+MEETING SHARES  
 How it works  (BB. chapter 5)  
 Daily reflections  
 A chosen AA reading  
