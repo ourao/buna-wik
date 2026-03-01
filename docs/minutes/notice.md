@@ -16,7 +16,7 @@ With a current regularity of monthly consciences.
 
 AGENDA  
 
-1. Opening
+1. Opening  
 Serenity prayer; primary purpose; traditions; unity  
 Review agenda; 30 minute timer  
 Ratify minutes  
