@@ -8,19 +8,32 @@
 [Future Meeting Memos](memos)  
 
 
-### Next Bundoran Group Conscience
+### Next Group Conscience
 
-Next conscience is suggested be on March 1st  
+Next conscience is suggested for Sunday March 1st.  
+With a current regularity of monthly consciences.  
 
+
+AGENDA  
+
+1. Opening
 Serenity prayer; primary purpose; traditions; unity  
+Review agenda; 30 minute timer  
 Ratify minutes  
-Review agenda  
-Meeting reports  
 Matters arising  
-GSR report on group responsibilities  
+
+2. Meetings  
+Reports  
 Matters arising  
-Inventory on unity and tradition 1  
-AOB  
+
+3. GSR  
+Reports on group responsibilities  
+Matters arising  
+
+4. Inventory on unity and tradition 1  
+
+5. AOB  
+6. Close  
 Next conscience date  
 Serenity prayer  
 
