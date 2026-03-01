@@ -1,6 +1,6 @@
 # Meeting Formats
 
-## Housekeeping
+## Formats / Housekeeping
 
 Format Proposals  
 
@@ -47,14 +47,33 @@ Tradition 7 and 12. Anonymity slogan
 Serenity and Our Father prayers  
 
 
-## Preamble
+### Meeting Formats Index
+
+Speaker meeting  
+Open floor meeting  
+Twelve and twelve speaker meeting  
+Bigbook speaker meeting  
+Twelve and twelve Study  
+Big book study  
+Workshops  
+Q and A meeting  
+Meditation step 11 meeting  
+Grapevine workshops  
+Public information and open meetings  
+Young person's meeting  
+Women's meeting
+
+
+## Readings
+
+### Preamble
 
 Alcoholics Anonymous is a fellowship of people who share their experience, strength and hope with each other that they may solve their common problem and help others to recover from alcoholism.
 
 The only requirement for membership is a desire to stop drinking. There are no dues or fees for A.A. membership; we are self-supporting through our own contributions. A.A. is not allied with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics to achieve sobriety.
 
 
-## Singleness Of Purpose
+### Singleness Of Purpose
 
 CLOSED MEETING
 
@@ -65,7 +84,7 @@ OPEN MEETING
 This is an open meeting of Alcoholics Anonymous. We are glad you are all here — especially newcomers. In keeping with our singleness of purpose and our Third Tradition which states that “The only requirement for A.A. membership is a desire to stop drinking,” we ask that all who participate confine their discussion to their problems with alcohol.
 
 
-## Chapter 5 How It Works
+### Chapter 5 How It Works
 
 > BB p58
 
@@ -103,7 +122,7 @@ Our description of the alcoholic, the chapter to the agnostic, and our personal 
 (c) That God could and would if He were sought.
 
 
-## The AA Promises (Step 9 Promises)
+### The AA Promises (Step 9 Promises)
 
 > BB p83-84
 
@@ -125,18 +144,4 @@ They are being fulfilled among us—sometimes quickly, sometimes slowly.
 They will always materialize if we work for them.  
 
 
-## Meeting Formats Index
 
-Speaker meeting  
-Open floor meeting  
-Twelve and twelve speaker meeting  
-Bigbook speaker meeting  
-Twelve and twelve Study  
-Big book study  
-Workshops  
-Q and A meeting  
-Meditation step 11 meeting  
-Grapevine workshops  
-Public information and open meetings  
-Young person's meeting  
-Women's meeting
