@@ -27,6 +27,7 @@ Matters arising
 2. Meetings  
 Reports  
 Matters arising  
+Review proposed formats  
 
 3. GSR  
 Reports  
