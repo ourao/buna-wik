@@ -15,7 +15,7 @@ hero:
       link: /guides/formats
     - theme: alt
       text: Basic Text
-      link: /basictext/basictext
+      link: https://www.alcoholicsanonymous.ie/the-big-book/
     - theme: alt
       text: Meeting Information
       link: /meetings/information
