@@ -35,9 +35,9 @@ Next conscience date
 Serenity prayer  
 
 
-REVERSE CONSCIENCE BUSINESS  
+## Reverse Conscience Business
 
-Group conscience flipping experiment in the face of limited time to better focus on spiritual inventory  
+Group conscience flipping experiment in the face of limited time, to better focus on spiritual inventory  
 
 X. Meetings  
 Reports  
