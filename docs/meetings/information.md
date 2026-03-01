@@ -20,9 +20,9 @@ Useful information for newcomers and members.
 [AA Grapevine](https://www.aagrapevine.org/)  
 
 
-## Virtual Meeting Space
+## Bundoran Virtual Meeting Space
 
-Bundoran AA Sobers Online [Zoom Meeting Room](https://us05web.zoom.us/j/4614160712?pwd=yy7ev2wGsleYiSLE34qA6bY24psmxR.1)
+Bundoran AA Sobers Online [Zoom Meeting Room](https://us05web.zoom.us/j/4614160712?pwd=yy7ev2wGsleYiSLE34qA6bY24psmxR.1)  
 Meeting ID: 461 416 0712  
 Passcode: vxnKU4  
 
