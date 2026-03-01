@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -14,15 +13,14 @@ hero:
       text: Guides
       link: /guides/formats
     - theme: alt
-      text: Basic Text
-      link: https://www.alcoholicsanonymous.ie/the-big-book/
-    - theme: alt
-      text: Meeting Information
+      text: Local Info
       link: /meetings/information
+    - theme: alt
+      text: Basic Text
+      link: https://www.aa.org/the-big-book
     - theme: alt
       text: Minutes
       link: /minutes/notice
-
 
 features:
   - title: Group Conscience
