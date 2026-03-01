@@ -11,36 +11,41 @@
 
 ### Next Group Conscience
 
-Next conscience is suggested for Sunday March 1st.  
+Next conscience is suggested for Sunday April 5th.  
 
 With a current regularity of monthly consciences on the first Sunday of each month.  
 
 
 SUGGESTED AGENDA  
 
-1. Opening  
+X. Opening  
 Serenity prayer; primary purpose; traditions; unity  
 Reading on tradition one?  
+
+X. House Keeping  
 Review agenda; 30 minute timer  
-Ratify minutes  
+Review minutes  
 Matters arising  
 
-2. Meetings  
+X. Inventory on unity and tradition 1  
+
+X. Close  
+AOB Questions   
+Next conscience date  
+Serenity prayer  
+
+
+REVERSE CONSCIENCE BUSINESS  
+
+Group conscience flipping experiment in the face of limited time to better focus on spiritual inventory  
+
+X. Meetings  
 Reports  
 Matters arising  
 Review proposed formats  
 
-3. GSR  
+X. GSR  
 Reports  
 Intergroup on group responsibilities  
 Matters arising  
-
-4. Inventory on unity and tradition 1  
-
-5. AOB  
-
-6. Close  
-Next conscience date  
-Serenity prayer  
-
 
