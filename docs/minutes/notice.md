@@ -34,6 +34,7 @@ Matters arising
 4. Inventory on unity and tradition 1  
 
 5. AOB  
+
 6. Close  
 Next conscience date  
 Serenity prayer  
