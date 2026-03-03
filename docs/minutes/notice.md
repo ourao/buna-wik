@@ -1,6 +1,6 @@
 # Notice
 
-## Next Group Conscience
+## Next Group Conscience  
 
 Next conscience is suggested for Sunday April 5th.  
 With a current regularity of monthly consciences on the first Sunday of each month.  
@@ -13,11 +13,13 @@ Serenity prayer; primary purpose; traditions; unity
 Reading on tradition one?  
 
 X. House Keeping  
+Ratify minutes  
+Matters arising to put on agenda  
 Review agenda; 30 minute timer  
-Review minutes  
-Matters arising  
 
 X. Inventory on unity and tradition 1  
+Structural backdrop  
+Inventory on the group  
 
 X. Close  
 AOB Questions   
@@ -25,6 +27,12 @@ Next conscience date
 Serenity prayer  
 
 
+## Working The Traditions    
+
+What structure is required for the long term health of the group in the face of challenge?  
+What is the structure to bring about the spiritual foundation?  
+How do we respond as a group to any re-emergence of controversy?  
+How do we support an individual member or secretary in addressing the re-emergence?  
 
 
 ## Quick Find Resources

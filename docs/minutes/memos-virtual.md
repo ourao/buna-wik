@@ -1,5 +1,6 @@
-# Virtual Continuous Conscience
+# Virtual Conscience
 
+A suggested virtual continuous conscience for stewarding business in the case of unavailable physical conscience time.  
 
 SUGGESTED VIRTUAL AGENDA  
 
@@ -10,16 +11,19 @@ Matters arising
 X. Meetings  
 Reports  
 Matters arising  
-Review proposed formats  
 
 X. GSR  
 Reports  
-Intergroup on group responsibilities  
 Matters arising  
 
 X. AOB  
 
-## Reverse Conscience Business  
+X. Que for physical conscience  
+Review meeting proposed formats  
+Intergroup on group responsibilities  
+
+
+## Virtual Conscience Business  
 
 At present members have a willingness to engage in approximately 30 to 45 minute group consciences monthly which would not be sufficient time for both inventory and business matters. To prioritise inventory without neglecting business, a suggested reverse group conscience format may be suggested.  
 
