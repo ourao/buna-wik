@@ -18,7 +18,7 @@ Matters arising to put on agenda
 Review agenda; 30 minute timer  
 
 X. Inventory on unity and tradition 1  
-Structural backdrop  
+Structural backdrop. Reasoning  
 Inventory on the group  
 
 X. Close  
@@ -29,10 +29,18 @@ Serenity prayer
 
 ## Working The Traditions    
 
+
+Have we been suffering from disunity?  
+Are we struggling with this on this particular week?  
+How is it that the group has failed to deal with the challenges it has faced?  
 What structure is required for the long term health of the group in the face of challenge?  
 What is the structure to bring about the spiritual foundation?  
 How do we respond as a group to any re-emergence of controversy?  
 How do we support an individual member or secretary in addressing the re-emergence?  
+
+Safety card  
+
+
 
 
 ## Quick Find Resources
@@ -42,5 +50,5 @@ How do we support an individual member or secretary in addressing the re-emergen
 [Minutes 2025 02 15](cmins-2026-02-15)  
 [Minutes 2025 03 01](cmins-2026-03-01)  
 [Future Meeting Memos](memos)  
-[Virtual Conscience Memos](memos-virtual)
+[Virtual Conscience Memos](memos-virtual)  
 

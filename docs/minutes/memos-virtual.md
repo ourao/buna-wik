@@ -25,7 +25,7 @@ Intergroup on group responsibilities
 
 ## Virtual Conscience Business  
 
-At present members have a willingness to engage in approximately 30 to 45 minute group consciences monthly which would not be sufficient time for both inventory and business matters. To prioritise inventory without neglecting business, a suggested reverse group conscience format may be suggested.  
+At present members are willing to dedicate approximately 30 to 45 minute group consciences monthly which would not be sufficient time for both inventory and business matters. To prioritise inventory without neglecting business, a suggested reverse group conscience format may be suggested.  
 
 If business is trusted to be carried out and communicated virtually, and if important views are raised through digital communication, this would allow for a virtual and ongoing group conscience on business matters. It may also be suggested that where business matters arise during a physical group conscience that if possible it be deferred to being addressed virtually.  
 
