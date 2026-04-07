@@ -39,6 +39,10 @@ How do we support an individual member or secretary in addressing the re-emergen
 
 Have we read and adopted the 'Safety Card' and similar AA resources  
 
+What is the specific inventory of our group?  
+What is our clear unambiguous conscience on each item?  
+How is our step 7 and 9 on each item?  
+
 
 ## Quick Find Resources
 
